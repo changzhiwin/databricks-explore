@@ -54,3 +54,6 @@ dbutils.fs.mount(
 # 工具
 - `dbutils`很有用， https://learn.microsoft.com/zh-cn/azure/databricks/dev-tools/databricks-utils
 - `.dbc`文件是可以导出、导入的notebook归档，入口在`Wrokspace`里面的文件夹右上侧
+
+# 实验
+- [超大数据集中寻找缺失数字](./how-to-find-lost-number.md)
